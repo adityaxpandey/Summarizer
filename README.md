@@ -1,2 +1,2 @@
 # Summarizer
-Hosted link: https://summarizer-flax.vercel.app/
+Hosted link: https://summarizer-ey4cujl59-adityaxpandeys-projects.vercel.app/
